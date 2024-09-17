@@ -1,3 +1,4 @@
+// This code is written by Nitin Atwal
 #include <stdio.h>
 
 #define MAX_NODES 4  // Max number of nodes (routers)
